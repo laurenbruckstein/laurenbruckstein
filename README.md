@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurenbruckstein
-- 👀 I’m a Computer Science Major at the University of Pittsburgh
+- 👀 I have my Computer Science Bachelor's degree from the University of Pittsburgh
 - 📫 You can reach me by emailing laurenbruckstein@gmail.com or leb127@pitt.edu 
 
 <!---
